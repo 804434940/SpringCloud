@@ -28,7 +28,7 @@
         <java.version>12</java.version>
         <spring-cloud.version>Greenwich.RELEASE</spring-cloud.version>
         <mapper.starter.version>2.1.5</mapper.starter.version>
-        <mysql.version>8.0.16</mysql.version>
+        <mysql.version>8.0.28</mysql.version>
         <lombok.version>1.18.8</lombok.version>
     </properties>
 
